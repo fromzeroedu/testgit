@@ -1,4 +1,4 @@
-This is foo
+This is foo and a conflict
 This is Jorge's edit
 This change was made in dev branch
 Another change in dev branch
